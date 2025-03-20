@@ -85,8 +85,11 @@ By combining these tools, the chatbot can process natural language questions, ge
 
 ## 📽️ Demo Video  
 
-[Watch the Demo](https://github.com/FarihaAnis/SQL-LangChain-Subway-Chatbot-with-Groq-Llama-3-Direct-SQL-Querying-/blob/master/demo.mp4)
+## 📽️ Demo Video  
 
+🎥 [Watch the Demo Video](https://github.com/user-attachments/assets/52ccacbd-c9e0-49d8-9843-d80bbebdf1de)
+
+---
 
 ## 📚 References  
 
