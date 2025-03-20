@@ -1,6 +1,6 @@
 # SQL LangChain Subway Chatbot with Groq Llama 3 (Direct Querying)
 
-This repository focuses on building the Subway AI Chatbot using SQL LangChain (Direct Querying). For details on MySQL Database Setup, Web Scraping Workflow, and Geocoding Extraction, refer to the [Backend Guide Setup](https://github.com/FarihaAnis/subway-aichatbot/tree/master/backend).
+This repository focuses on building the Subway AI Chatbot using SQL LangChain (Direct Querying). For details on MySQL Database Setup, Web Scraping Workflow, and Geocoding Extraction, refer to the [Backend Setup Guide](https://github.com/FarihaAnis/subway-aichatbot/tree/master/backend).
 
 ## Chatbot Architecture
 The chatbot operates as an end-to-end SQL Q&A system, where users can ask questions about Subway outlets in Kuala Lumpur without needing SQL knowledge.
