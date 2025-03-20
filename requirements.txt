@@ -1,0 +1,14 @@
+sqlalchemy
+langchain_community
+crewai
+langchain_groq
+mysql-connector-python
+mysql
+crewai_tools
+streamlit
+folium 
+streamlit_folium
+geopy
+langchain
+langchain_experimental
+langchain-openai
