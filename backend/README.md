@@ -9,7 +9,7 @@
 4. **Initialize FastAPI instance**
 5. **Connect Llama 3 with Groq**
     - Use ChatGroq to generate SQL from user questions.
-6. **6. Convert Natural Language to SQL Queries**
+6. **Convert Natural Language to SQL Queries**
     - Use LangChain’s SQLDatabaseChain to generate and execute SQL queries.
     - The AI will use the `subway_outlets` table from the MySQL database.
 7. **Handle user input**
