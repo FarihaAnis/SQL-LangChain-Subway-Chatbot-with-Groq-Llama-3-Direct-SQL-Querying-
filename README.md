@@ -85,8 +85,6 @@ By combining these tools, the chatbot can process natural language questions, ge
 
 ## 📽️ Demo Video  
 
-## 📽️ Demo Video  
-
 🎥 [Watch the Demo Video](https://github.com/user-attachments/assets/52ccacbd-c9e0-49d8-9843-d80bbebdf1de)
 
 ---
