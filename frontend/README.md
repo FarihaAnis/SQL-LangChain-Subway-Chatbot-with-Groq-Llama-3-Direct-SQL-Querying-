@@ -1,8 +1,8 @@
-# Frontend Setup Guidelines
+# Frontend Setup Guide
 1. **Create chatbot.py**
     - This file serves as the frontend for the Subway KL chatbot using Streamlit.
 2. **Install dependencies**
-    - Refer to requirements.txt for the list of required packages.
+    - Refer to `requirements.txt` for the list of required packages.
 3. **Define FastAPI backend URLs**
     - `POST /query` → Sends user questions to FastAPI.
     - `GET /outlets` → Fetches Subway outlet locations.
