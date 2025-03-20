@@ -64,7 +64,7 @@ The chatbot follows a four-step process to convert user queries into database-dr
 - Requests – Fetches data from FastAPI backend
 - Folium – Maps Subway outlets visually
 - Streamlit-Folium – Integrates Folium maps with Streamlit
-geopy – Calculates distances between locations
+- geopy – Calculates distances between locations
 
 ---
 
