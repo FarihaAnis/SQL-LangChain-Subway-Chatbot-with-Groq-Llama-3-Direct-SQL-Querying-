@@ -66,10 +66,6 @@ The chatbot follows a four-step process to convert user queries into database-dr
 - Streamlit-Folium – Integrates Folium maps with Streamlit
 geopy – Calculates distances between locations
 
-◽**Additional Modules**
-- os – Handles file paths and environment variables
-- re – Extracts SQL from LLM responses
-
 ---
 
 ## Why Use Groq, SQL LangChain, Llama 3, and Streamlit?
